@@ -1,0 +1,55 @@
+/usr/local/bin/python3.7 "/Users/caiqis/Desktop/MHGRN-for explanation/generate_ComVE/__init__.py"
+{
+    "answerKey":"A",
+    "id":"075e483d21c29a511267ef62bedc0461",
+    "question":{
+        "choices":[
+            {
+                "label":"A",
+                "text":"ignore"
+            },
+            {
+                "label":"B",
+                "text":"enforce"
+            },
+            {
+                "label":"C",
+                "text":"authoritarian"
+            },
+            {
+                "label":"D",
+                "text":"yell at"
+            },
+            {
+                "label":"E",
+                "text":"avoid"
+            }
+        ],
+        "question_concept":"punishing",
+        "stem":"The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?"
+    },
+    "statements":[
+        {
+            "label":true,
+            "statement":"The sanctions against the school were a punishing blow, and they seemed to ignore the efforts the school had made to change."
+        },
+        {
+            "label":false,
+            "statement":"The sanctions against the school were a punishing blow, and they seemed to enforce the efforts the school had made to change."
+        },
+        {
+            "label":false,
+            "statement":"The sanctions against the school were a punishing blow, and they seemed to authoritarian the efforts the school had made to change."
+        },
+        {
+            "label":false,
+            "statement":"The sanctions against the school were a punishing blow, and they seemed to yell at the efforts the school had made to change."
+        },
+        {
+            "label":false,
+            "statement":"The sanctions against the school were a punishing blow, and they seemed to avoid the efforts the school had made to change."
+        }
+    ]
+}
+
+Process finished with exit code 0
